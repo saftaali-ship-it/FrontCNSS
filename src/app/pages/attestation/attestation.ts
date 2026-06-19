@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-attestation',
   standalone: true,
   template: `
-    <h2 class="page-title">Attestation du solde</h2>
+    <h2 class="page-title">Attestation du solde....</h2>
     <section class="cnss-panel">
       <div class="cnss-panel__title">Attestation du solde</div>
       <div class="placeholder">
