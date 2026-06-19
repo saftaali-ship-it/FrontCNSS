@@ -6,7 +6,7 @@ import { CnssService } from '../../core/services/cnss.service';
   selector: 'app-profil',
   standalone: true,
   template: `
-    <h2 class="page-title">Profil employeur</h2>
+    <h2 class="page-title">Profil </h2>
 
     <!-- API 1 : identité employeur -->
     <section class="cnss-panel">
